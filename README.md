@@ -28,4 +28,3 @@ To test the login, please use these exact credentials:
 1. Put this project folder into your XAMPP `htdocs` directory.
 2. Make sure the Apache server is running in XAMPP.
 3. Open Google Chrome and go to: `http://localhost/phpjobportal/` (or whatever you named the folder).
-Why this version is "Anti-AI":
