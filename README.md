@@ -1,7 +1,7 @@
 # Job Profiling Web Portal (IMS566 Project)
 
 ## About This Project
-Hi! This is my individual project submission for the IMS566 (Advanced Web Design Development and Content Management) course. I built a Job Profiling web application interface to demonstrate my understanding of web design and UI/UX principles. The portal acts as a digital portfolio where a user can view their professional dashboard, skills, and career timeline. 
+This is my individual project submission for the IMS566 (Advanced Web Design Development and Content Management) course. I built a Job Profiling web application interface to demonstrate my understanding of web design and UI/UX principles. The portal acts as a digital portfolio where a user can view their professional dashboard, skills, and career timeline. 
 
 ## Features Included
 Based on the project requirements, I have included the following features:
